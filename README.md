@@ -4,7 +4,7 @@
 **create a simple circuit powered by a DC motor,and write a simple algorithm that changes the speed of this motor.** <br />
 
 ## Circuit design :sparkles: :
-<img src="" width="550">
+<img src="brushlessMotor.png" width="550">
 
 ## Hardware Required 🔨: 
 ○ Arduino Uno <br />
@@ -39,5 +39,7 @@ void loop()
 ```
 <br />
 ## The simulation : <br /> 
-- 
+- https://user-images.githubusercontent.com/106310608/182030549-1b780d20-9ce2-4b32-90df-d08c54b2a937.mp4
+
+
 
