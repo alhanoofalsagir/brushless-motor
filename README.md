@@ -1,4 +1,4 @@
-## electric forces and electrons First Task🗣:<br />
+## electric forces and electrons Task🗣:<br />
 
 ## Description📄: <br />
 **create a simple circuit powered by a DC motor,and write a simple algorithm that changes the speed of this motor.** <br />
